@@ -28,5 +28,5 @@ dependencyManagement {
 }
 
 bootRun {
-    systemProperties = (Map) System.properties
+    systemProperties = System.properties
 }
